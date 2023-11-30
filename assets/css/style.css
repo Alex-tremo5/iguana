@@ -1,0 +1,82 @@
+body {
+  background-color: black;
+  font-family: "Raleway", sans-serif;
+}
+.font {
+  font-weight: 10;
+}
+
+.header h1 {
+  text-align: center;
+  color: #ffffff;
+}
+
+.image img {
+  width: 100%;
+}
+
+.together {
+  display: flex;
+  justify-content: space-around;
+}
+
+.together img {
+  width: 25%;
+  height: 25%;
+}
+
+.together p {
+  size: 16px;
+  color: #ffffff;
+  width: 475px;
+  height: 197px;
+  padding-top: 40px;
+}
+
+#info {
+  height: 348px;
+  background-color: #1e1a13;
+  color: #ffffff;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.caracteristicas {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.caracteristicas p {
+  color: #ffffff;
+}
+
+.titulo {
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.inferior img {
+  width: 25%;
+}
+
+.inferior {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 60px;
+}
+
+.footer {
+  background-color: #1e1a13;
+  height: 102px;
+  text-align: center;
+}
+
+.footer p {
+  padding-top: 45px;
+  color: #ffffff;
+}
